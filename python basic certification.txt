@@ -1,3 +1,4 @@
+#Avg function code
 import math
 import os
 import random
@@ -10,6 +11,9 @@ def avg(*nums):
 
 #!/bin/python3
 
+
+
+#Shape classes with python code
 import math
 import os
 import random
